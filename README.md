@@ -1,5 +1,5 @@
 # Image-Compressor
-Image &amp; PDF Compressor using Node.js only
+Image &amp; PDF Compressor using Node.js 
 
 ```
 # install dependencies
